@@ -1,0 +1,19 @@
+﻿# dataset (large + not ours to redistribute)
+data/
+
+# Java / Spring
+target/
+*.class
+.idea/
+*.iml
+
+# Node / React
+node_modules/
+dist/
+
+# secrets
+.env
+
+# OS
+Thumbs.db
+.DS_Store
